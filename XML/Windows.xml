@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>chrome.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>devenv.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>excelcnv.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Microsoft Office\Office12\excelcnv.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>explorer</ParçaAdı>
+    <Yol>C:\Windows\explorer.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>iexplore.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Internet Explorer\iexplore.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>MSACCESS.EXE</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Microsoft Office\Office12\MSACCESS.EXE</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>MSASCui.exe</ParçaAdı>
+    <Yol>C:\Program Files\Windows Defender\MSASCui.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>notepad</ParçaAdı>
+    <Yol>C:\Windows\notepad.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>regedit</ParçaAdı>
+    <Yol>C:\Windows\regedit.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>Snagit32.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\TechSmith\Snagit 12\Snagit32.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>SnagitEditor.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\TechSmith\Snagit 12\SnagitEditor.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>WinRAR.exe</ParçaAdı>
+    <Yol>C:\Program Files\WinRAR\WinRAR.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>wmplayer.exe</ParçaAdı>
+    <Yol>C:\Program Files (x86)\Windows Media Player\wmplayer.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>write</ParçaAdı>
+    <Yol>C:\Windows\write.exe</Yol>
+  </ParçaAdı>
+</ParçaAdı>

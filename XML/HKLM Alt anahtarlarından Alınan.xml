@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>gimp-2.8</ParçaAdı>
+    <Yol>C:\Acil\GIMP 2\bin\gimp-2.8.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>InstNT</ParçaAdı>
+    <Yol>C:\Program Files\Synaptics\SynTP\InstNT.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>msiexec</ParçaAdı>
+    <Yol>C:\WINDOWS\system32\msiexec.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>msiexec</ParçaAdı>
+    <Yol>C:\WINDOWS\system32\msiexec.exe</Yol>
+  </ParçaAdı>
+  <ParçaAdı>
+    <ParçaAdı>WinRAR</ParçaAdı>
+    <Yol>C:\Program Files\WinRAR\WinRAR.exe</Yol>
+  </ParçaAdı>
+</ParçaAdı>
